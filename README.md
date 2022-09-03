@@ -8,7 +8,7 @@ To see the current month, it suffices to open the program.The current date is ma
 in the month is displayed at the bottom.
 To see any month in any year, isert 2 digits (from 01 - 12) in the first box in the first tab and 4 digits (from 0001 - 9999) in the second box 
 and click the button. 
-![alt text](current date.png)<br>
+![alt text](current_date.png)<br>
 <em>Screen shot of Perpetual Calendar Ethiopia - Current Date</em>
 In the second tab, we can insert any two dates to get list of holidays and number of workdays between the specified dates.
 ![alt text](Holidays.png)<br>
