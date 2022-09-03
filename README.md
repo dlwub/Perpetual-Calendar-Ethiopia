@@ -1,5 +1,5 @@
 # Perpetual-Calendar-Ethiopia
-This proram is a Perpetual Ethiopian Calendar. It enables to see holidays and number of workdays in the current month or any month in any year 
+The Perpetual-Calendar-Ethiopia enables users to see holidays and number of workdays in the current month or any month in any year 
 from the birth of Christ to the year 9999 A.D. 
 
 ## How to use the app:
